@@ -22,12 +22,13 @@ To view the Power BI report, you can download the `.pbix` file and open it in Po
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PowerBI-Amazon-Products-Analysis.git
+    git clone https://github.com/Nikita-Analyst/PowerBI-Amazon-Products-Analysis.git
     ```
 2. Open the `Amazon_Products_Analysis.pbix` file in Power BI Desktop.
 
 ## Screenshots
-![Dashboard Overview](link_to_screenshot)
+1. [Dashboard Overview](![Screenshot 2024-08-30 152424](https://github.com/user-attachments/assets/e0e99bca-fa20-4e5f-9aa3-b0a80b9b02c1)
+
 
 ## Conclusion
 This Power BI project provides valuable insights into Amazon products, helping businesses and stakeholders make informed decisions. Feel free to explore and use the analysis for your own needs.
