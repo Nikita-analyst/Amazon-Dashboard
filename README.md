@@ -24,7 +24,7 @@ To view the Power BI report, you can download the `.pbix` file and open it in Po
     ```bash
     git clone https://github.com/Nikita-Analyst/PowerBI-Amazon-Products-Analysis.git
     ```
-2. Open the "https://github.com/Nikita-analyst/Amazon-Dashboard/blob/main/Amazon%20Advance%20Power%20Bi%20Dashboard.pbix"  file in Power BI Desktop.
+2. Open the "Amazon Advance Power Bi Dashboard.pbix"  file in Power BI Desktop.
 
 ## Screenshots
 1. [Dashboard Overview](![Screenshot 2024-08-30 152424](https://github.com/user-attachments/assets/e0e99bca-fa20-4e5f-9aa3-b0a80b9b02c1)
