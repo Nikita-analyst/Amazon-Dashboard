@@ -22,7 +22,7 @@ To view the Power BI report, you can download the `.pbix` file and open it in Po
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Nikita-Analyst/PowerBI-Amazon-Products-Analysis.git
+    git clone https://github.com/Nikita-analyst/Amazon-Dashboard.git
     ```
 2. Open the "Amazon Advance Power Bi Dashboard.pbix"  file in Power BI Desktop.
 
