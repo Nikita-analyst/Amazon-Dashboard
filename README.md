@@ -39,5 +39,3 @@ To view the Power BI report, you can download the `.pbix` file and open it in Po
 ## Conclusion
 This Power BI project provides valuable insights into Amazon products, helping businesses and stakeholders make informed decisions. Feel free to explore and use the analysis for your own needs.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
